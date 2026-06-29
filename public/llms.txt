@@ -1,0 +1,107 @@
+# DIDI BEAUTY — Generative Engine Optimization Map
+
+> An online jewelry store focused on selling jewelry products through a dedicated e-commerce platform. The brand identity, style, and target audience are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://didi-beauty-023c8ba0.zappy5.app
+גלי את האוסף המרהיב של DIDI BEAUTY, מחנות התכשיטים המקוונת המובילה. טבעות, שרשראות ועוד במחירים שווים. היכנסי עכשיו והתחילי לנצנץ!
+
+### מדריך לאירועים
+https://didi-beauty-023c8ba0.zappy5.app/occasions-guide
+מתלבטת מה לענוד לחתונה, יום הולדת או דייט רומנטי? המדריך לאירועים של DIDI BEAUTY עוזר לך לבחור את התכשיט המושלם בקלות. כנסי ותתחדשי!
+
+### אודות
+https://didi-beauty-023c8ba0.zappy5.app/about
+ב-DIDI BEAUTY אנחנו מאמינות שכל אישה ראויה לתכשיט שיגרום לה להרגיש מיוחדת. קראי על החזון, האהבה לאיכות והמסע שלנו להפוך כל יום לקצת יותר זוהר.
+
+### צור קשר
+https://didi-beauty-023c8ba0.zappy5.app/contact
+צרי קשר עם צוות DIDI BEAUTY לכל שאלה על הזמנות, מידות או התאמה אישית. אנחנו זמינות בוואטסאפ, במייל ובטלפון כדי לתת לך שירות מושלם. שלחי הודעה עכשיו!
+
+### Products
+https://didi-beauty-023c8ba0.zappy5.app/products
+המוצרים שלנו - DIDI BEAUTY
+
+### Cart
+https://didi-beauty-023c8ba0.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://didi-beauty-023c8ba0.zappy5.app/checkout
+תשלום
+
+### Login
+https://didi-beauty-023c8ba0.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://didi-beauty-023c8ba0.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://didi-beauty-023c8ba0.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://didi-beauty-023c8ba0.zappy5.app/product/:slug
+פרטי המוצר - DIDI BEAUTY
+
+### Category
+https://didi-beauty-023c8ba0.zappy5.app/category/:slug
+מוצרים - DIDI BEAUTY
+
+### תודה רבה | DIDI BEAUTY
+https://didi-beauty-023c8ba0.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. DIDI BEAUTY - best jewelry ecommerce websites.
+
+## Legal & Policy
+
+### Privacy Policy
+https://didi-beauty-023c8ba0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://didi-beauty-023c8ba0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://didi-beauty-023c8ba0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DIDI BEAUTY
+An online jewelry store focused on selling jewelry products through a dedicated e-commerce platform. The brand identity, style, and target audience are yet to be defined.
+
+## Services/Products
+- מכירת תכשיטים
+
+## Target Audience
+- מחפשי יוקרה צעירים
+- כלות ומעוניינים בהצעות נישואין
+- מחפשי מתנות יוקרתיות
+
+## Industry
+Jewelry E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://didi-beauty-023c8ba0.zappy5.app/sitemap.xml
+- Robots: https://didi-beauty-023c8ba0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://didi-beauty-023c8ba0.zappy5.app/llms-full.txt
+- Products (JSON): https://didi-beauty-023c8ba0.zappy5.app/products.json
+- Products (Google Merchant RSS): https://didi-beauty-023c8ba0.zappy5.app/product-feed.xml
